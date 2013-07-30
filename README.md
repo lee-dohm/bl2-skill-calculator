@@ -1,4 +1,3 @@
-bl2-skill-calculator
-====================
+# Borderlands 2 Skill Tree Calculator
 
-Skill tree calculator website for Borderlands 2
+I decided to write this in order to teach myself Rails.
